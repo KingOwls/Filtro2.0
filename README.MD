@@ -15,6 +15,7 @@ Para desarrollar la división del proyecto FrontEnd se deben tener los siguiente
 9. El repositorio debe contar con readme donde se debe explicar las reglas de estilo creadas en el proyecto.
 10. Debe verse unicamente por Bem, y Greed
 11. La imagen debe cambiar por medio de una animacion y estilizaion
+12. Hacer una trancision de opacidad y color donde muestre un pequeño resumen de nombre, y caracteristicas.
 
 ## Criterios de entrega
 
