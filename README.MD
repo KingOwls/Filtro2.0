@@ -24,3 +24,10 @@ Para desarrollar la división del proyecto FrontEnd se deben tener los siguiente
 3. No se aceptaran entregas posteriores a la fecha y hora.
 4. No se reciben trabajos vía correo electrónico.
 5. El proyecto debe estar publicado como Page en git.
+
+### Anotaciones
+
+Extender y programar un grupo de opacidad para el funcionamiento de extencion, y en caso de ser requerido cambio de imagen por medio de una transicion.
+De la misma forma hacer correctamente las tablas y su funcionamiento extendido
+recordar Posicionamiento dependiendo del navegador
+ademas de eso tener en cuenta las margenes y su modelado para celulares teniendo que recordar el ajustarse

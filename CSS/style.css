@@ -1,9 +1,15 @@
 *{
     background-color: aquamarine;
-    
+
 }
 .other{
     color: #ffda9e;
     color: #b2e2f2;
     color: #b0f2c2;
+}
+.container{
+    background-color: #ffda9e;
+}
+.text{
+    background-color: #ffda9e;
 }
