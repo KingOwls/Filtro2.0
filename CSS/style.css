@@ -68,6 +68,7 @@ main .card .head {
 main .card .head p {
 	font-size: 14px;
 }
+/*classes ain*/
 
 .buttonContact{
     padding: 10px;
@@ -87,12 +88,13 @@ main .card .head p {
 		transition: all .3s ease;
 	}
 }
-
+/*colores usados*/
 .other{
 
     color: #b2e2f2;
     color: #b0f2c2;
 }
+/*animacion*/
 .carrito-compras {
     animation-name: Carrito;
     animation-duration: 3s; 
