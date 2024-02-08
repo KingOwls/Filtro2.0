@@ -69,8 +69,16 @@ main .card .head p {
 	font-size: 14px;
 }
 
-/* MAIN */
-/* CONTENT */
+.buttonContact{
+    padding: 10px;
+    background-color: #b0f2c2;
+    border-radius: 50px;
+    margin: 0 auto;
+}
+.buttonContact:hover{
+    filter: opacity(0.95);
+    transform: scale(1.14);
+}
 
 @media screen and (max-width: 768px) {
 	#content {
@@ -85,3 +93,21 @@ main .card .head p {
     color: #b2e2f2;
     color: #b0f2c2;
 }
+.carrito-compras {
+    animation-name: Carrito;
+    animation-duration: 3s; 
+  }
+  
+
+@keyframes Carrito{
+    0% {
+      transform: translateX(0); 
+    }
+    50% {
+      transform: translateX(200px); 
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
